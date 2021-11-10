@@ -1,0 +1,80 @@
+body {
+    background-color: #f9f9fa;
+    display:flex;
+    
+}
+.page-content{
+    padding: 6rem !important
+}
+.row{
+    justify-content: center;
+}
+
+.card {
+    border-radius: 5px;
+    box-shadow: 2px 4px 5px black, -2px -2px 5px lightslategray;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0;
+}
+
+.bg-c-lite-blue {
+    background:lwebkit-gradient(linear, left top, right top, fromrgba(34,193,195,1) 0%, to(rgba(253,187,45,1) 100%));
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: rgb(34,193,195);
+}
+.card-block1{
+    text-align: center;
+    color:white;
+    font-weight: 600;
+}
+#welcome{
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+#details {
+    margin-bottom: 5px;
+    padding-bottom:5px;
+    font-weight: 600; 
+    border-bottom: 1px solid lightgray;
+}
+#title{
+    margin-bottom:10px;
+    font-weight: 600;
+}
+#value{
+    font-weight: 400;
+}
+@media only screen and (min-width: 1400px) {
+    p {
+        font-size: 14px
+    }
+}
+
+.card-block {
+    padding: 1.25rem
+}
+
+.m-b-10 {
+    margin-bottom: 10px
+}
+
+.text-muted {
+    color: #919aa3 !important
+}
+
+.b-b-default {
+    border-bottom: 1px solid #e0e0e0
+}
+
+.f-w-600 {
+    font-weight: 600
+}
+
+.m-b-20 {
+    margin-bottom: 20px
+}
+
+.m-t-40 {
+    margin-top: 20px
+}

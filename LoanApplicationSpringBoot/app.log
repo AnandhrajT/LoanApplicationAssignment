@@ -1,0 +1,224 @@
+2021-11-10 12:08:10,848 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:08:10,863 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:08:22,835 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:08:22,836 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:08:23,436 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:08:23,534 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-11-10 12:08:24,878 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-11-10 12:08:26,143 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:08:26,563 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-11-10 12:08:27,799 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-11-10 12:08:28,396 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:08:31,183 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:08:36,531 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 28.579 seconds (JVM running for 53.351)
+2021-11-10 12:08:37,590 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-6] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:08:37,869 INFO com.zaxxer.hikari.HikariDataSource [Thread-6] HikariPool-1 - Shutdown initiated...
+2021-11-10 12:08:37,890 INFO com.zaxxer.hikari.HikariDataSource [Thread-6] HikariPool-1 - Shutdown completed.
+2021-11-10 12:08:38,102 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:08:38,102 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:08:38,762 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:08:38,763 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:08:38,821 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:08:38,848 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2021-11-10 12:08:38,852 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2021-11-10 12:08:38,911 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:08:38,920 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:08:39,128 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:08:39,645 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.611 seconds (JVM running for 56.465)
+2021-11-10 12:10:06,036 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-8] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:10:06,272 INFO com.zaxxer.hikari.HikariDataSource [Thread-8] HikariPool-2 - Shutdown initiated...
+2021-11-10 12:10:06,286 INFO com.zaxxer.hikari.HikariDataSource [Thread-8] HikariPool-2 - Shutdown completed.
+2021-11-10 12:10:06,620 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:10:06,621 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:10:07,423 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:10:07,423 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:10:07,499 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:10:07,536 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2021-11-10 12:10:07,540 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2021-11-10 12:10:07,589 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:10:07,603 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:10:07,748 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:10:08,137 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.621 seconds (JVM running for 144.957)
+2021-11-10 12:12:09,949 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-12] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:12:10,157 INFO com.zaxxer.hikari.HikariDataSource [Thread-12] HikariPool-3 - Shutdown initiated...
+2021-11-10 12:12:10,161 INFO com.zaxxer.hikari.HikariDataSource [Thread-12] HikariPool-3 - Shutdown completed.
+2021-11-10 12:12:10,352 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:12:10,352 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:12:10,852 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:12:10,853 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:12:10,951 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:12:10,980 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Starting...
+2021-11-10 12:12:10,984 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-4 - Start completed.
+2021-11-10 12:12:11,022 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:12:11,034 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:12:11,151 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:12:11,530 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.239 seconds (JVM running for 268.35)
+2021-11-10 12:16:49,154 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-16] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:16:49,378 INFO com.zaxxer.hikari.HikariDataSource [Thread-16] HikariPool-4 - Shutdown initiated...
+2021-11-10 12:16:49,381 INFO com.zaxxer.hikari.HikariDataSource [Thread-16] HikariPool-4 - Shutdown completed.
+2021-11-10 12:16:49,565 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:16:49,566 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:16:50,034 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:16:50,035 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:16:50,104 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:16:50,131 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Starting...
+2021-11-10 12:16:50,134 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Start completed.
+2021-11-10 12:16:50,174 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:16:50,186 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:16:50,333 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:16:50,639 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.132 seconds (JVM running for 547.459)
+2021-11-10 12:18:04,345 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-20] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:18:04,566 INFO com.zaxxer.hikari.HikariDataSource [Thread-20] HikariPool-5 - Shutdown initiated...
+2021-11-10 12:18:04,571 INFO com.zaxxer.hikari.HikariDataSource [Thread-20] HikariPool-5 - Shutdown completed.
+2021-11-10 12:18:04,742 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:18:04,743 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:18:06,792 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:18:06,793 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:18:07,264 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:18:07,298 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Starting...
+2021-11-10 12:18:07,304 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Start completed.
+2021-11-10 12:18:07,605 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:18:07,625 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:18:08,319 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:18:09,115 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 4.431 seconds (JVM running for 625.935)
+2021-11-10 12:19:02,785 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-24] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:19:02,998 INFO com.zaxxer.hikari.HikariDataSource [Thread-24] HikariPool-6 - Shutdown initiated...
+2021-11-10 12:19:03,019 INFO com.zaxxer.hikari.HikariDataSource [Thread-24] HikariPool-6 - Shutdown completed.
+2021-11-10 12:19:03,220 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:19:03,220 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:19:03,836 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:19:03,837 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:19:03,892 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:19:03,930 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-7 - Starting...
+2021-11-10 12:19:03,933 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-7 - Start completed.
+2021-11-10 12:19:03,979 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:19:03,991 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:19:04,113 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:19:04,543 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.382 seconds (JVM running for 681.363)
+2021-11-10 12:19:13,224 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-28] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:19:13,437 INFO com.zaxxer.hikari.HikariDataSource [Thread-28] HikariPool-7 - Shutdown initiated...
+2021-11-10 12:19:13,439 INFO com.zaxxer.hikari.HikariDataSource [Thread-28] HikariPool-7 - Shutdown completed.
+2021-11-10 12:19:13,592 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:19:13,593 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:19:14,274 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:19:14,274 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:19:14,333 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:19:14,361 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-8 - Starting...
+2021-11-10 12:19:14,367 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-8 - Start completed.
+2021-11-10 12:19:14,405 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:19:14,414 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:19:14,483 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:19:14,784 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.237 seconds (JVM running for 691.604)
+2021-11-10 12:19:19,685 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-32] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:19:19,898 INFO com.zaxxer.hikari.HikariDataSource [Thread-32] HikariPool-8 - Shutdown initiated...
+2021-11-10 12:19:19,902 INFO com.zaxxer.hikari.HikariDataSource [Thread-32] HikariPool-8 - Shutdown completed.
+2021-11-10 12:19:20,193 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:19:20,194 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:19:20,749 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:19:20,750 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:19:20,820 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:19:20,844 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-9 - Starting...
+2021-11-10 12:19:20,847 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-9 - Start completed.
+2021-11-10 12:19:20,880 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:19:20,887 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:19:20,977 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:19:21,373 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.247 seconds (JVM running for 698.193)
+2021-11-10 12:19:23,869 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-36] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:19:24,075 INFO com.zaxxer.hikari.HikariDataSource [Thread-36] HikariPool-9 - Shutdown initiated...
+2021-11-10 12:19:24,080 INFO com.zaxxer.hikari.HikariDataSource [Thread-36] HikariPool-9 - Shutdown completed.
+2021-11-10 12:19:24,567 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:19:24,568 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:19:25,524 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:19:25,524 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:19:25,605 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:19:25,635 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-10 - Starting...
+2021-11-10 12:19:25,638 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-10 - Start completed.
+2021-11-10 12:19:25,685 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:19:25,696 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:19:25,795 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:19:26,284 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.975 seconds (JVM running for 703.104)
+2021-11-10 12:19:38,918 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-40] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:19:39,122 INFO com.zaxxer.hikari.HikariDataSource [Thread-40] HikariPool-10 - Shutdown initiated...
+2021-11-10 12:19:39,124 INFO com.zaxxer.hikari.HikariDataSource [Thread-40] HikariPool-10 - Shutdown completed.
+2021-11-10 12:19:39,295 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:19:39,296 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:19:39,804 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:19:39,805 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:19:39,863 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:19:39,886 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-11 - Starting...
+2021-11-10 12:19:39,889 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-11 - Start completed.
+2021-11-10 12:19:39,924 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:19:39,932 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:19:40,105 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:19:40,474 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.233 seconds (JVM running for 717.294)
+2021-11-10 12:20:00,259 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-44] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:20:00,465 INFO com.zaxxer.hikari.HikariDataSource [Thread-44] HikariPool-11 - Shutdown initiated...
+2021-11-10 12:20:00,468 INFO com.zaxxer.hikari.HikariDataSource [Thread-44] HikariPool-11 - Shutdown completed.
+2021-11-10 12:20:00,822 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:20:00,823 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:20:01,934 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:20:01,935 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:20:02,033 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:20:02,055 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-12 - Starting...
+2021-11-10 12:20:02,057 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-12 - Start completed.
+2021-11-10 12:20:02,108 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:20:02,118 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:20:02,228 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:20:02,716 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 2.019 seconds (JVM running for 739.536)
+2021-11-10 12:20:14,178 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-48] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:20:14,383 INFO com.zaxxer.hikari.HikariDataSource [Thread-48] HikariPool-12 - Shutdown initiated...
+2021-11-10 12:20:14,387 INFO com.zaxxer.hikari.HikariDataSource [Thread-48] HikariPool-12 - Shutdown completed.
+2021-11-10 12:20:14,575 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:20:14,576 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:20:15,008 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:20:15,009 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:20:15,054 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:20:15,076 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-13 - Starting...
+2021-11-10 12:20:15,078 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-13 - Start completed.
+2021-11-10 12:20:15,113 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:20:15,120 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:20:15,203 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:20:15,535 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.017 seconds (JVM running for 752.355)
+2021-11-10 12:20:24,111 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-52] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 12:20:24,316 INFO com.zaxxer.hikari.HikariDataSource [Thread-52] HikariPool-13 - Shutdown initiated...
+2021-11-10 12:20:24,318 INFO com.zaxxer.hikari.HikariDataSource [Thread-52] HikariPool-13 - Shutdown completed.
+2021-11-10 12:20:24,484 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 12:20:24,484 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 12:20:24,900 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 12:20:24,901 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 12:20:24,992 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 12:20:25,023 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-14 - Starting...
+2021-11-10 12:20:25,025 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-14 - Start completed.
+2021-11-10 12:20:25,089 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 12:20:25,125 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 12:20:25,252 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 12:20:25,520 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 1.086 seconds (JVM running for 762.34)
+2021-11-10 12:21:12,645 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-9] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-10 14:23:59,149 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-56] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 14:24:07,087 INFO com.zaxxer.hikari.HikariDataSource [Thread-56] HikariPool-14 - Shutdown initiated...
+2021-11-10 14:24:08,592 INFO com.zaxxer.hikari.HikariDataSource [Thread-56] HikariPool-14 - Shutdown completed.
+2021-11-10 14:25:22,144 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 14:25:22,158 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 14:25:40,715 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 14:25:40,716 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 14:25:40,983 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 14:25:41,013 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-15 - Starting...
+2021-11-10 14:25:41,137 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-15 - Start completed.
+2021-11-10 14:25:41,421 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 14:25:41,566 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 14:25:41,920 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 14:25:44,981 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 24.32 seconds (JVM running for 8281.801)
+2021-11-10 15:04:47,747 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-60] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-11-10 15:04:54,188 INFO com.zaxxer.hikari.HikariDataSource [Thread-60] HikariPool-15 - Shutdown initiated...
+2021-11-10 15:04:54,641 INFO com.zaxxer.hikari.HikariDataSource [Thread-60] HikariPool-15 - Shutdown completed.
+2021-11-10 15:06:10,914 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Starting LoanApplicationSpringBootApplication using Java 16.0.2 on DESKTOP-Q67PQM3 with PID 6112 (D:\Anandh\LoanApplication\LoanApplicationBackend\target\classes started by SethuPathy in D:\Anandh\LoanApplication\LoanApplicationBackend)
+2021-11-10 15:06:10,915 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-11-10 15:06:27,963 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-11-10 15:06:27,964 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-10 15:06:28,252 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-11-10 15:06:28,290 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-16 - Starting...
+2021-11-10 15:06:28,551 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-16 - Start completed.
+2021-11-10 15:06:28,773 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-10 15:06:28,860 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-10 15:06:29,035 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-10 15:06:30,964 INFO com.loanApplication.Backend.LoanApplicationSpringBootApplication [restartedMain] Started LoanApplicationSpringBootApplication in 22.924 seconds (JVM running for 10727.783)
