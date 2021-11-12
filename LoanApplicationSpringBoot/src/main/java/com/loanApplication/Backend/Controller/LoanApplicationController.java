@@ -30,14 +30,36 @@ public class LoanApplicationController {
 	}
 
 	
-	@GetMapping("/verify-customer")
-	private RegisterCustomerModel verifyCustomer(@RequestParam("email") String email, @RequestParam("password") String password) {
-		return loanApplicationService.getCustomerDetails(email, password);
+	@PostMapping("/login")
+	@CrossOrigin(origins="http://localhost:4200")
+	public UserModel loginUser(@RequestBody UserModel user) throws Exception {
+		String tempEmailId=user.getEmailId();
+		String tempPassword=user.getPassword();
+		UserModel obj=null;
+		if(tempEmailId != null && tempPassword != null)
+		{
+			obj=service.fetchUserByEmailAddressAndPassword(tempEmailId, tempPassword);	
+		}
+		if(obj==null) {
+			throw new Exception("Invalid User");
+		}
+		return obj;
 	}
 	
-	@PostMapping("/add-customer")
-	private RegisterCustomerModel saveCustomer(@RequestBody RegisterCustomerModel customer) {
-		return loanApplicationService.saveCustomerDetails(customer);
+	@PostMapping("/Register")
+	@CrossOrigin(origins="http://localhost:4200")
+	public UserModel registerUser(@RequestBody UserModel user) throws Exception {
+		String temp=user.getEmailId();
+		if(temp!=null && "".equals(temp))
+		{
+			UserModel obj=service.fetchUserByEmailAddress(temp);
+			if(obj != null) {
+				throw new Exception("User Already Exsitis");
+			}
+		}
+		UserModel obj=null;
+		obj=service.saveUser(user);
+		return obj;
 	}
 	
 	@GetMapping("/loans/{customerId}")
