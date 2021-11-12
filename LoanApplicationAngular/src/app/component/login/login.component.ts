@@ -22,7 +22,7 @@ export class LoginComponent implements OnInit {
         console.log('LoginComponent/ngOnInit ' + this.retUrl);
       });
   }
-  async onLogin(loginForm: any) {
+  async loginUser(loginForm: any) {
     this.loading = true;
     this.loggedIn = await this.authService.authenticate(loginForm.value.username, loginForm.value.password);
     if (this.loggedIn) {
